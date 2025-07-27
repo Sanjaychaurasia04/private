@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "input_documents": [
+      "document1.pdf",
+      "document2.pdf",
+      "document3.pdf"
+    ],
+    "persona": "Investment Analyst",
+    "job_to_be_done": "Analyze revenue trends",
+    "processing_timestamp": "2025-07-27T17:49:06.416528Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "document1.pdf",
+      "page_number": 8,
+      "section_title": "Test Case 2: Business Analysis",
+      "importance_rank": 1,
+      "confidence_score": 0.6196
+    },
+    {
+      "document": "document2.pdf",
+      "page_number": 8,
+      "section_title": "Test Case 2: Business Analysis",
+      "importance_rank": 2,
+      "confidence_score": 0.6196
+    },
+    {
+      "document": "document3.pdf",
+      "page_number": 8,
+      "section_title": "Test Case 2: Business Analysis",
+      "importance_rank": 3,
+      "confidence_score": 0.6196
+    },
+    {
+      "document": "document1.pdf",
+      "page_number": 7,
+      "section_title": "Salesperson, Journalist, Entrepreneur etc)",
+      "importance_rank": 4,
+      "confidence_score": 0.2457
+    },
+    {
+      "document": "document2.pdf",
+      "page_number": 7,
+      "section_title": "Salesperson, Journalist, Entrepreneur etc)",
+      "importance_rank": 5,
+      "confidence_score": 0.2457
+    },
+    {
+      "document": "document3.pdf",
+      "page_number": 7,
+      "section_title": "Salesperson, Journalist, Entrepreneur etc)",
+      "importance_rank": 6,
+      "confidence_score": 0.2457
+    },
+    {
+      "document": "document1.pdf",
+      "page_number": 7,
+      "section_title": "Challenge Brief (For Participants)",
+      "importance_rank": 7,
+      "confidence_score": 0.2337
+    },
+    {
+      "document": "document2.pdf",
+      "page_number": 7,
+      "section_title": "Challenge Brief (For Participants)",
+      "importance_rank": 8,
+      "confidence_score": 0.2337
+    },
+    {
+      "document": "document3.pdf",
+      "page_number": 7,
+      "section_title": "Challenge Brief (For Participants)",
+      "importance_rank": 9,
+      "confidence_score": 0.2337
+    },
+    {
+      "document": "document1.pdf",
+      "page_number": 2,
+      "section_title": "The Journey Ahead",
+      "importance_rank": 10,
+      "confidence_score": 0.1957
+    },
+    {
+      "document": "document2.pdf",
+      "page_number": 2,
+      "section_title": "The Journey Ahead",
+      "importance_rank": 11,
+      "confidence_score": 0.1957
+    },
+    {
+      "document": "document3.pdf",
+      "page_number": 2,
+      "section_title": "The Journey Ahead",
+      "importance_rank": 12,
+      "confidence_score": 0.1957
+    },
+    {
+      "document": "document1.pdf",
+      "page_number": 7,
+      "section_title": "Test Case 1: Academic Research",
+      "importance_rank": 13,
+      "confidence_score": 0.1903
+    },
+    {
+      "document": "document2.pdf",
+      "page_number": 7,
+      "section_title": "Test Case 1: Academic Research",
+      "importance_rank": 14,
+      "confidence_score": 0.1903
+    },
+    {
+      "document": "document3.pdf",
+      "page_number": 7,
+      "section_title": "Test Case 1: Academic Research",
+      "importance_rank": 15,
+      "confidence_score": 0.1903
+    },
+    {
+      "document": "document1.pdf",
+      "page_number": 3,
+      "section_title": "You must build a solution that:",
+      "importance_rank": 16,
+      "confidence_score": 0.1752
+    },
+    {
+      "document": "document2.pdf",
+      "page_number": 3,
+      "section_title": "You must build a solution that:",
+      "importance_rank": 17,
+      "confidence_score": 0.1752
+    },
+    {
+      "document": "document3.pdf",
+      "page_number": 3,
+      "section_title": "You must build a solution that:",
+      "importance_rank": 18,
+      "confidence_score": 0.1752
+    },
+    {
+      "document": "document1.pdf",
+      "page_number": 8,
+      "section_title": "Sub-section Analysis:",
+      "importance_rank": 19,
+      "confidence_score": 0.1738
+    },
+    {
+      "document": "document2.pdf",
+      "page_number": 8,
+      "section_title": "Sub-section Analysis:",
+      "importance_rank": 20,
+      "confidence_score": 0.1738
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "document1.pdf",
+      "page_number": 8,
+      "subsection_title": "Key Detail from Test Case 2: Business Analysis",
+      "refined_text": "Test Case 2: Business Analysis \u2022 Documents: 3 annual reports from competing tech companies (2022-2024) \u2022 Persona: Investment Analyst \u2022 Job: \"Analyze revenue trends, R&D investments, and market positioning strategies\"",
+      "relevance_to_job": 0.5577
+    },
+    {
+      "document": "document2.pdf",
+      "page_number": 8,
+      "subsection_title": "Key Detail from Test Case 2: Business Analysis",
+      "refined_text": "Test Case 2: Business Analysis \u2022 Documents: 3 annual reports from competing tech companies (2022-2024) \u2022 Persona: Investment Analyst \u2022 Job: \"Analyze revenue trends, R&D investments, and market positioning strategies\"",
+      "relevance_to_job": 0.5577
+    },
+    {
+      "document": "document3.pdf",
+      "page_number": 8,
+      "subsection_title": "Key Detail from Test Case 2: Business Analysis",
+      "refined_text": "Test Case 2: Business Analysis \u2022 Documents: 3 annual reports from competing tech companies (2022-2024) \u2022 Persona: Investment Analyst \u2022 Job: \"Analyze revenue trends, R&D investments, and market positioning strategies\"",
+      "relevance_to_job": 0.5577
+    }
+  ]
+}
